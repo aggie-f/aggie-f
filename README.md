@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Agata</h1>
 <h3 align="center">A full-stack developer from London.</h3>
 
-- 🔭 I’m currently working on **website with blog and booking system function**
-
 - 🌱 I’m currently learning **React and Redux**
 
 - 👯 I’m looking to collaborate on **travel journal app using Rails**
